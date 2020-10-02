@@ -1,8 +1,9 @@
-package Main;
+
 /**
  * @author Monareng T
  * Class: ConcreteObjects   (ConcreteFactory)
  */
+
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
